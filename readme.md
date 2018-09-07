@@ -38,7 +38,7 @@ http://solar/public/api/comment
 #Изменить комментарий PUT
 http://solar/public/api/comment/{commentid}
 
-Пример:PUT http://solar/public/api/comment/1
+Пример:PUT http://solar/public/api/comment/1?name=Alex
 
 #Удалить комментарий DELETE
 http://solar/public/api/comment/{commentid}
